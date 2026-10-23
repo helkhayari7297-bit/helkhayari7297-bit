@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Engineering graduate passionate about turning raw data into useful, intelligent solutions. I enjoy working with Python, machine learning and big data tools, and I'm looking for an internship where I can learn, contribute and grow.
+I'm a Data Engineering graduate passionate about turning raw data into useful, intelligent solutions. I enjoy working with Python, machine learning and big data tools .
 
 - 🔭 Currently working on data and AI projects
 - 🌱 Learning: Big Data, MLOps, Cloud
