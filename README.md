@@ -7,7 +7,6 @@
 <br>
 
 ![Location](https://img.shields.io/badge/Morocco-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to%20Internships-2EA44F?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Data%20%26%20AI-36BCF7?style=for-the-badge)
 
 </div>
