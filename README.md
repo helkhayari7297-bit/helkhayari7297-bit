@@ -33,43 +33,14 @@ I'm a Data Engineering graduate passionate about turning raw data into useful, i
 
 </div>
 
-| Domain | Tools |
-|---|---|
-| **Languages** | Python, SQL, JavaScript, Bash |
-| **Data & ML** | Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Big Data** | Hadoop (HDFS), Docker |
-| **Tools** | Git, GitHub, Linux, Jupyter |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/USERNAME/project-one) | One-line description of what it does | Python, ML |
-| [**Project Two**](https://github.com/USERNAME/project-two) | One-line description of what it does | Python, SQL |
-| [**Project Three**](https://github.com/USERNAME/project-three) | One-line description of what it does | Docker, Hadoop |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-el-khayari-1a1b473ab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayarihoussam12@gmail.com)
 
 <br>
 
