@@ -28,7 +28,7 @@ I'm a Data Engineering graduate passionate about turning raw data into useful, i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,docker,linux,git,github,vscode,jupyter&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,docker,linux,git,github,jupyter&theme=dark" alt="Tech stack" />
 
 </div>
 
